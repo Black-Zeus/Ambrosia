@@ -67,7 +67,7 @@ module.exports = {
       // 🖋️ Tipografías
       fontFamily: {
         // Fuentes principales con alias - CORREGIDOS para coincidir con App.tsx
-        'cinzel': ['Cinzel'],                    // ✅ Coincide con App.tsx
+        'cinzel': ['Cinzel'],                    // ✅ Coincide con App.tsx··
         'cinzel-bold': ['CinzelBold'],           // ✅ Coincide con App.tsx  
         'cinzel-regular': ['CinzelRegular'],     // ✅ Coincide con App.tsx
         'cinzel-medium': ['CinzelMedium'],       // ✅ Coincide con App.tsx
